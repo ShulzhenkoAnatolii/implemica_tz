@@ -1,0 +1,1 @@
+call java -jar .\target\TZ_Implemica.jar
